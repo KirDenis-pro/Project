@@ -204,3 +204,9 @@ body {
 .button_blok {
   width: 50vw;
 }
+
+.top_left_blok_question {
+  height: 391px;
+  display: flex;
+}
+/* внес изменения для проверки */
