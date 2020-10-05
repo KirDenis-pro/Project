@@ -92,9 +92,9 @@ body {
   display: flex;
   justify-content: space-between;
   padding-top: 64px;
-  padding-bottom: 64px;
+  padding-bottom: 640px;
 }
-
+/*  Просто запись для проверки */
 .product_card_info {
   font-style: 20px;
   line-height: 30px;
