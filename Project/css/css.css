@@ -82,8 +82,9 @@ body {
   line-height: 46px;
   text-align: center;
   letter-spacing: 0.05em;
-  font-weight: 300;
+  font-weight: 15;
 }
+/* Было 300 */
 .header2 {
   padding-top: 64px;
 }
